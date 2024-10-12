@@ -88,14 +88,15 @@ I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4itr0-07&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/n4itr0-07/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=n4itr0-07&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/n4itr0-07/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
 
 <br><br>
 
 
-
+<!--
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
@@ -106,7 +107,8 @@ I'm **[`N4!TR0 07`](https://www.youtube.com/@lostsecc)**, a hacker & Learner. I'
 <p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
-
+-->
+<br><br>
 
 
 
